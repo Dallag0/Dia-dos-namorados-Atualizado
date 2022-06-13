@@ -1,0 +1,7 @@
+alert("Insira texto")
+alert("Insira texto")
+alert("Insira texto")
+alert("Insira texto")
+alert("Insira texto")
+alert("Insira texto")
+alert("Insira texto")

@@ -1,0 +1,9 @@
+:root {
+  --Rosa-Forte: #6F98E3;
+  --Rosa-Fraco: #87CEFA;
+  --Background: #7CFDFF; 
+  --Background2: hsl(350, 100%, 88%);
+  --Preto: hsl(0, 0%, 0%);
+  --Branco: hsl(0, 0%, 100%);
+  --Polaroid: hsl(0, 0%, 92%);
+}
